@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+DefaultContentLanguage= 'es'
+languageCode = 'es-mx'
+title = 'Jack Spicer Spicy Yaoi'
+theme = 'diary'
+copyright = 'The CUU Spicers'
+
+[params]
+   subtitle = "The spicest yaoi in town"
+   enableReadingTime=true   
+   disableToC=true
+
+[taxonomies]
+   category = "categories"
+   tag = "tags"
+
+[[menu.main]]
+   url = "/posts"
+   name = "Archivo"
+   weight = 1
+[[menu.main]]
+   url = "/categories"
+   name = "Categorias"
+   weight = 2
+[[menu.main]]
+   url = "/tags"
+   name = "Tags"
+   weight = 3
