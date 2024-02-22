@@ -37,5 +37,7 @@
   </url><url>
     <loc>http://localhost:1313/posts/post-1/</loc>
     <lastmod>2023-02-21T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
   </url>
 </urlset>
