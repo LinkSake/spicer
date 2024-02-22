@@ -1,0 +1,21 @@
+<a href="#" target="_blank">
+	<i class="material-icons" style="">alternate_email</i>
+</a>
+<a href="#" target="_blank">
+	<i class="material-icons" style="">rss_feed</i>
+</a>
+<br>
+<!-- Because this project is under MIT licence. -->
+&copy;
+{{ if .Site.Copyright }}
+{{ $t := time.AsTime "2023-01-27T23:44:58-08:00" }}
+{{ $t.Year }} {{ .Site.Copyright }}
+{{ else }}
+{{.Site.Home.Date.Year}} {{.Site.Title}}
+{{ end }}
+<br>
+<br>
+<!-- Please don't remove the information of theme makers. -->
+{{ i18n "hugo_theme" }} <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> {{ i18n "by" }} <a href="https://risehere.net/">Rise</a>
+<br>
+{{ i18n "ported_from" }} <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a>
