@@ -9,13 +9,37 @@ content:
     view:
       fields: [title, date, author]
     fields:
-      - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: string }
-      - { name: date, label: Date, type: date }
-      - { name: draft, label: Draft, type: boolean, default: true }
-      - { name: categories, label: Category, type: string }
-      - { name: author, label: Author, type: string }
-      - { name: featured_image, label: Header, type: image }
-      - { name: body, label: Body, type: rich-text }
-      
+      - name: title
+        label: Title
+        type: string
+        description: Title for the post
+      - name: description
+        label: Description
+        type: string
+        description: Breif summary or description of the post
+      - name: author
+        label: Author 
+        type: string
+        description: Author of the post
+      - name: date
+        label: Date
+        type: date
+        description: Creation or published date
+      - name: draft
+        label: Draft
+        type: boolean
+        default: true
+        description: If this is set, the post won't appear on the webpage
+      - name: categories
+        label: Category
+        type: string
+        description: Category for the post
+      - name: featured_image
+        label: Header
+        type: image
+        description: Featured image that will appear next and upside the blog post
+      - name: body
+        label: Body
+        type: rich-text
+        description: The actual blog post
       
