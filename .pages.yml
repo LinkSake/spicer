@@ -7,7 +7,7 @@ content:
     type: collection
     path: content/posts
     view:
-      fields: [title, description, date, author]
+      fields: [title, date, author]
     fields:
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string }
