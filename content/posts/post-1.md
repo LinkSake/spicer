@@ -1,13 +1,13 @@
 ---
-title: "When You Have Too Much to Do"
+title: When You Have Too Much to Do
+description: You have a to-do list that scrolls on for days. You are managing
+  multiple projects, getting lots of email and messages on different messaging
+  systems, managing finances and personal health habits and so much more.
+author: Luis Angel Ortega
 date: 2023-02-21T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+draft: true
 categories: Todo
-comment : false
-author: Jack Offer
 ---
-
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 
 It all keeps piling up, and it can feel overwhelming.
