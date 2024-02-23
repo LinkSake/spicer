@@ -19,7 +19,7 @@ content:
         description: Breif summary or description of the post
       - name: author
         label: Author 
-        type: string
+        type: select
         description: Author of the post
         options: 
           values: ["Alejandro Ramirez", "Dagoberto Dominguez", "Luis Angel Ortega"]
