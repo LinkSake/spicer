@@ -1,9 +1,9 @@
 ---
 title: "Chapter VI: Esmeralda"
+author: Alejandro Ramirez
 date: 2024-02-21T14:59:06-06:00
 draft: false
 categories: Story
-author: Jack Spicer
 featured_image: static/images/separation-1894.jpg
 ---
 We are delighted to be able to inform the reader, that during the whole of
