@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jack Spicer Spicy Yaoi</title>
+    <title>Posts on Curcubita</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Jack Spicer Spicy Yaoi</description>
+    <description>Recent content in Posts on Curcubita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <copyright>The CUU Spicers</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 14:59:06 -0600</lastBuildDate>
+    <copyright>Curcubita</copyright>
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Post Title</title>
+      <link>http://localhost:1313/posts/2024-02-23-testing-post-title/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-23-testing-post-title/</guid>
+      <description>Wololo&#xA;Prueba de salto de línea&#xA;aasdasdasda&#xA;Probando probando, si, si, uno dos</description>
+    </item>
+    <item>
+      <title>Raviolli</title>
+      <link>http://localhost:1313/posts/2024-02-22-raviolli/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-22-raviolli/</guid>
+      <description>yum</description>
+    </item>
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>http://localhost:1313/posts/post-3/</link>
@@ -24,7 +38,7 @@
       <description>Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&#xA;Heading 1 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio.</description>
     </item>
     <item>
-      <title>When You Have Too Much to Do</title>
+      <title>When You Have Too Much to Dooooo</title>
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Tue, 21 Feb 2023 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>

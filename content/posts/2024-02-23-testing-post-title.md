@@ -1,10 +1,10 @@
 ---
 title: Testing Post Title
 description: This is a test for an entry
-author: Alejandro Ramirez
+colaborador: Alejandro Ramirez
 date: 2024-02-23
 draft: true
-categories: test
+categorias: test
 ---
 Wololo
 

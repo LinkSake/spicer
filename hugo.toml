@@ -1,28 +1,38 @@
 baseURL = 'https://example.org/'
 DefaultContentLanguage= 'es'
 languageCode = 'es-mx'
-title = 'Jack Spicer Spicy Yaoi'
+title = 'Curcubita'
 theme = 'diary'
-copyright = 'The CUU Spicers'
+copyright = 'Curcubita'
 
 [params]
-   subtitle = "The spicest yaoi in town"
+   subtitle = "Semillas del pensar"
    enableReadingTime=true   
    disableToC=true
 
 [taxonomies]
-   category = "categories"
    tag = "tags"
+   colaborador = "colaboradores"
+   categoria = "categorias"
 
 [[menu.main]]
    url = "/posts"
    name = "Archivo"
    weight = 1
 [[menu.main]]
-   url = "/categories"
-   name = "Categorias"
+   url = "/zines"
+   name = "Zines"
    weight = 2
+[[menu.main]]
+   url = "/categorias"
+   name = "Categorias"
+   weight = 3
 [[menu.main]]
    url = "/tags"
    name = "Tags"
-   weight = 3
+   weight = 4
+[[menu.main]]
+   url = "/about"
+   name = "Sobre Nosotros"
+   weight = 5
+   

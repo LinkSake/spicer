@@ -3,10 +3,10 @@ title: When You Have Too Much to Dooooo
 description: You have a to-do list that scrolls on for days. You are managing
   multiple projects, getting lots of email and messages on different messaging
   systems, managing finances and personal health habits and so much more.
-author: Luis Angel Ortega
+colaborador: Luis Angel Ortega
 date: 2023-02-21T02:01:58+05:30
 draft: true
-categories: Todo
+categorias: Todo
 ---
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 

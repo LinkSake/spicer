@@ -2,42 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
+    <loc>http://localhost:1313/categorias/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categorias/test/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-02-23-testing-post-title/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categorias/filthy/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024-02-22-raviolli/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-3/</loc>
     <lastmod>2024-02-21T14:59:06-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/categorias/story/</loc>
     <lastmod>2024-02-21T14:59:06-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/story/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-21T14:56:16-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/typography/</loc>
-    <lastmod>2024-02-21T14:56:16-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-2/</loc>
     <lastmod>2024-02-21T14:56:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/primer/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/todo/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/todo/</loc>
+    <loc>http://localhost:1313/categorias/todo/</loc>
     <lastmod>2023-02-21T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-1/</loc>
     <lastmod>2023-02-21T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>http://localhost:1313/colaboradores/alejandro-ramirez/</loc>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/</loc>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/dagoberto-domingez/</loc>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/luisangel-ortega/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

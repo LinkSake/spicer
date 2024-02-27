@@ -26,3 +26,9 @@
   translation: BORRADOR
 - id: toc_title
   translation: Tabla de contenidos
+- id: category_tax
+  translation: Categorias
+- id: tag_tax
+  translation: Tags
+- id: author_tax
+  translation: Colaboradores

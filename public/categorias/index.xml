@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categorias on Curcubita</title>
+    <link>http://localhost:1313/categorias/</link>
+    <description>Recent content in Categorias on Curcubita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>Curcubita</copyright>
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/categorias/test/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categorias/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filthy</title>
+      <link>http://localhost:1313/categorias/filthy/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categorias/filthy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>http://localhost:1313/categorias/story/</link>
+      <pubDate>Wed, 21 Feb 2024 14:59:06 -0600</pubDate>
+      <guid>http://localhost:1313/categorias/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todo</title>
+      <link>http://localhost:1313/categorias/todo/</link>
+      <pubDate>Tue, 21 Feb 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/categorias/todo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
