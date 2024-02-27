@@ -7,9 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>The CUU Spicers</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 14:59:06 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Testing Post Title</title>
+        <link>http://localhost:1313/posts/2024-02-23-testing-post-title/</link>
+        <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/2024-02-23-testing-post-title/</guid>
+        <description>Jack Spicer Spicy Yaoi http://localhost:1313/posts/2024-02-23-testing-post-title/ -&lt;p&gt;Wololo&lt;/p&gt;
+&lt;p&gt;Prueba de salto de línea&lt;/p&gt;
+&lt;p&gt;aasdasdasda&lt;/p&gt;
+&lt;p&gt;Probando probando, si, si, uno dos&lt;/p&gt;
+- http://localhost:1313/posts/2024-02-23-testing-post-title/ - The CUU Spicers</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Raviolli</title>
+        <link>http://localhost:1313/posts/2024-02-22-raviolli/</link>
+        <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/2024-02-22-raviolli/</guid>
+        <description>Jack Spicer Spicy Yaoi http://localhost:1313/posts/2024-02-22-raviolli/ -&lt;p&gt;yum&lt;/p&gt;
+- http://localhost:1313/posts/2024-02-22-raviolli/ - The CUU Spicers</description>
+        </item>
     
     
     
@@ -157,7 +184,7 @@ the first place?—‘tis Egyptian!”&lt;/p&gt;
     
     
         <item>
-        <title>When You Have Too Much to Do</title>
+        <title>When You Have Too Much to Dooooo</title>
         <link>http://localhost:1313/posts/post-1/</link>
         <pubDate>Tue, 21 Feb 2023 02:01:58 +0530</pubDate>
         
