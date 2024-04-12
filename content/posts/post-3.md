@@ -2,7 +2,7 @@
 title: "Chapter VI: Esmeralda"
 author: Alejandro Ramirez
 date: 2024-02-21T14:59:06-06:00
-draft: false
+draft: true
 categories: Story
 featured_image: static/images/separation-1894.jpg
 ---
