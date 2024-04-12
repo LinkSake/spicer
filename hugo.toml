@@ -1,12 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://curcubita.art/'
 DefaultContentLanguage= 'es'
 languageCode = 'es-mx'
-title = 'Jack Spicer Spicy Yaoi'
+title = 'Curcubita'
 theme = 'diary'
-copyright = 'The CUU Spicers'
+copyright = 'Curcubita'
 
 [params]
-   subtitle = "The spicest yaoi in town"
+   subtitle = "Semillas culturales"
    enableReadingTime=true   
    disableToC=true
 

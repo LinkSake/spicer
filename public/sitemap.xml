@@ -2,42 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
+    <loc>https://curcubita.art/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
+    <loc>https://curcubita.art/posts/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
+    <loc>https://curcubita.art/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/story/</loc>
-    <lastmod>2024-02-21T14:59:06-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-21T14:56:16-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/typography/</loc>
-    <lastmod>2024-02-21T14:56:16-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
-    <lastmod>2024-02-21T14:56:16-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/primer/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/todo/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/todo/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
-    <lastmod>2023-02-21T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://curcubita.art/tags/</loc>
   </url>
 </urlset>
